@@ -63,4 +63,4 @@ http://localhost:8080/swagger-ui/index.html
 Java Internship Project – Cognorise
 ## Swagger UI Screenshot
 
-![Swagger UI](swagger-ui.png)
+![Swagger UI](notesapi/swagger-ui.png)
