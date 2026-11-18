@@ -7,3 +7,4 @@ runlog.txt
 startup-log.txt
 startup-error.txt
 .vscode/
+*.lnk
