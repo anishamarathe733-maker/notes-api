@@ -1,0 +1,9 @@
+target/
+.env
+*.class
+error.txt
+latest-error.txt
+runlog.txt
+startup-log.txt
+startup-error.txt
+.vscode/
